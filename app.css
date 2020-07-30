@@ -23,7 +23,7 @@ body {
 
 @keyframes WaterAnimation {
   from {
-    trandfrom: translateY(0);
+    transform: translateY(0);
   }
   to {
     /* Hides the water behind the glass of water*/
